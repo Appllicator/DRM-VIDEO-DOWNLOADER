@@ -4,9 +4,9 @@
 
 :gear: **DRM-VIDEO-DOWNLOADER** обеспечивает эффективную поддержку зашифрованных медиапотоков, извлечение метаданных и высокую совместимость с различными стандартами DRM
 
-:book: *Если у вас возникли вопросы, вы можете задать их в группе телеграм* **[FAQDownloadEncryptedVideo]([https://example.com](https://clck.ru/3QSzp4)){:target="_blank"}**
+:book: *Если у вас возникли вопросы, вы можете задать их в группе телеграм* **<a href="https://clck.ru/3QSzp4" target="_blank">FAQDownloadEncryptedVideo</a>**
 
- *или нужна помощь, обратитесь в группу телеграм* **[FAQDownloadEncryptedVideo]([https://example.com](https://clck.ru/3QSzp4)){:target="_blank"}**
+ *или нужна помощь, обратитесь в группу телеграм* **<a href="https://clck.ru/3QSzp4" target="_blank" rel="noopener noreferrer">FAQDownloadEncryptedVideo</a>**
 
 1. Не используйте DRM-VIDEO-DOWNLOADER в целях, на которые у вас нет прав.
 2. Не распространяйте и не запрашивайте контент, нарушающий авторские права;
